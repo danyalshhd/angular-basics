@@ -10,13 +10,15 @@ To install the dependencies:
     npm install -g live-server
     
 ## Start Server
+
+#Run following in the project directory path at command prompt
+
+    live-server
+
+
 #Run following on the browser
 
     http://127.0.0.1:8080/
-
-##Run following for tests:<br>
-
-    npm test
 
 
 ## Directory Structure
