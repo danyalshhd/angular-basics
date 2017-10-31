@@ -28,8 +28,8 @@ The code structure is as follows:
     /home                        --component
       home.component.js
       home.html
-	  /posts-list
-		  posts-list.component.js
+    /posts-list
+      posts-list.component.js
       posts-list.html
     README.md
     app.js                     
